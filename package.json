@@ -9,6 +9,15 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/luxon": "^1.4.1",
+    "@types/marked": "^0.4.2",
+    "@types/node": "^10.12.11",
+    "@types/uuid": "^3.4.4",
+    "axios": "^0.18.0",
+    "luxon": "^1.8.2",
+    "marked": "^0.5.2",
+    "uuid": "^3.3.2",
     "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
