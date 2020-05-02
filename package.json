@@ -13,7 +13,7 @@
     "@types/luxon": "1.21.0",
     "@types/marked": "0.7.2",
     "@types/node": "10.12.18",
-    "@types/uuid": "3.4.7",
+    "@types/uuid": "7.0.3",
     "axios": "0.19.2",
     "luxon": "1.22.0",
     "marked": "0.8.0",
