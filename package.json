@@ -18,7 +18,7 @@
     "luxon": "1.22.0",
     "marked": "0.8.0",
     "uuid": "3.4.0",
-    "vue": "2.6.11",
+    "vue": "2.7.16",
     "vue-class-component": "7.2.2",
     "vue-property-decorator": "8.3.0",
     "vue-router": "3.1.5",
@@ -34,7 +34,7 @@
     "babel-core": "7.0.0-bridge.0",
     "ts-jest": "25.1.0",
     "typescript": "3.7.5",
-    "vue-template-compiler": "2.6.11"
+    "vue-template-compiler": "2.7.16"
   },
   "postcss": {
     "plugins": {
