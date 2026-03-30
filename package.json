@@ -9,7 +9,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "@types/axios": "0.14.0",
+    "@types/axios": "0.14.4",
     "@types/luxon": "1.21.0",
     "@types/marked": "0.7.2",
     "@types/node": "10.12.18",
